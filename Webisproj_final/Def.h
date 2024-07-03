@@ -53,8 +53,8 @@ uint16_t positionMax;
 
 volatile bool manual = false;
 
-const char* ssid = "Mjölnir";
-const char* password = "12345678";
+const char* ssid = "";
+const char* password = "";
 
 
 
