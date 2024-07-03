@@ -1,4 +1,4 @@
-# IS_Project_17
+# AUTOMATED TEMPERATURE AND LIGHT CONTROL SYSTEM IN A CONFINED SPACE BASED ON THE NUMBER OF PEOPLE
 
 
 The issue of energy consumption and efficiency is crucial due to the escalating global energy demand and the depletion of non-renewable resources. As population increase and urbanization expands, the need for sustainable and efficient energy management becomes more pressing. 
